@@ -1,0 +1,33 @@
+_id: req_a3d9dc5e5aa247298777850e5d3d36b6
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135553855
+created: 1659135553855
+url: http://localhost:8080/nutricionista
+name: Nutricionista
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"crn": "123-pb",
+    	"nome":"Paulo",
+    	"sobrenome": "banana",
+    	"email": "paulo@email.com",
+    	"senha": "12345",
+    	"nascimento": "2020-09-21"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1659135553855
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

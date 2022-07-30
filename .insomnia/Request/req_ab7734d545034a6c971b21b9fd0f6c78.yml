@@ -1,0 +1,23 @@
+_id: req_ab7734d545034a6c971b21b9fd0f6c78
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135554788
+created: 1659135554788
+url: http://localhost:8080/refeicao/11/preparacao/8
+name: RefeicaoPreparacao
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659135554788
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

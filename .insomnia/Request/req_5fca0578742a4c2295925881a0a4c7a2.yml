@@ -1,0 +1,23 @@
+_id: req_5fca0578742a4c2295925881a0a4c7a2
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135554994
+created: 1659135554994
+url: http://localhost:8080/listadecompra
+name: ListaDeCompra
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659135554994
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

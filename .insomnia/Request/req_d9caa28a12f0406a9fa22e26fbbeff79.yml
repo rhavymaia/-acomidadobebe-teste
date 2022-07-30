@@ -1,0 +1,28 @@
+_id: req_d9caa28a12f0406a9fa22e26fbbeff79
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135554197
+created: 1659135554197
+url: http://localhost:8080/grupo
+name: Grupo
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "Fibra"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1659135554197
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

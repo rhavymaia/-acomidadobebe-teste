@@ -1,0 +1,23 @@
+_id: req_b5ece8dd135245a0b358c57a6bda2d36
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135554048
+created: 1659135554048
+url: http://localhost:8080/responsavel
+name: Responsavel
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659135554048
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

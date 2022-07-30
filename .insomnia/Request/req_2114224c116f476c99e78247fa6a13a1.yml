@@ -1,0 +1,33 @@
+_id: req_2114224c116f476c99e78247fa6a13a1
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135554301
+created: 1659135554301
+url: http://localhost:8080/ingrediente
+name: Ingrediente
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "Feijão",
+    	"grupos":[
+    		{
+    			"id": 5
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1659135554301
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

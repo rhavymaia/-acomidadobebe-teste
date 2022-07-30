@@ -1,0 +1,23 @@
+_id: req_dc23898ce1624a02a5032ff166151b6a
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135554868
+created: 1659135554868
+url: http://localhost:8080/refeicao
+name: Refeicao
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659135554868
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

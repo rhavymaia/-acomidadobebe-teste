@@ -1,0 +1,23 @@
+_id: req_5d2b021da8ca4bb1aac1f6c11fb5d30d
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135553862
+created: 1659135553862
+url: http://localhost:8080/nutricionista
+name: Nutricionista
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659135553862
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

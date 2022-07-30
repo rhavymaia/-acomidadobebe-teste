@@ -1,0 +1,37 @@
+_id: req_5d8bab6817664ba1a180058eb6246497
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135553837
+created: 1659135553837
+url: http://localhost:8080/endereco
+name: Endereco
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+    	"logradouro": "rua perdida",
+    	"numero": 1,
+    	"bairro": "centro",
+    	"complemento": "nenhum",
+    	"cep": "58220000",
+    	"cidade": "guarabira",
+    	"estado": "pb",
+    	"usuario": {
+    		"id": 3
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1659135553837
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

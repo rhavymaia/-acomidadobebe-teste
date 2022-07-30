@@ -1,0 +1,26 @@
+_id: req_cbb742b16bee4d77b25322c8aca1fe76
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135553829
+created: 1659135553829
+url: http://localhost:8080/usuario
+name: Usuario
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers:
+  - name: Authorization
+    value: Basic
+      Y2Y3YWFjYTFlNDZjNGQwMzk1N2Y3MzNiZDA1Mjc2ZGE6ZmMyZGQ3ZjE2ODcxNGU5ZjkyYjNkZjRlZmFhNmRkNTg=
+authentication: {}
+metaSortKey: -1659135553829
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

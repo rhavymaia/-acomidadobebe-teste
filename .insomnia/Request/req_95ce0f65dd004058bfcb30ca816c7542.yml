@@ -1,0 +1,32 @@
+_id: req_95ce0f65dd004058bfcb30ca816c7542
+type: Request
+parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
+modified: 1659135553998
+created: 1659135553998
+url: http://localhost:8080/responsavel
+name: Responsavel
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome":"Vitor",
+    	"sobrenome": "banana",
+    	"email": "nana@email.com",
+    	"senha": "12345",
+    	"nascimento": "2020-09-21"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1659135553998
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
