@@ -1,19 +1,19 @@
-_id: req_5fca0578742a4c2295925881a0a4c7a2
+_id: req_09c60741fbdc4fc990faf8deea12addd
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659230244298
-created: 1659135554994
-url: http://localhost:8080/listadecompra
-name: ListaDeCompra
+modified: 1659288447263
+created: 1659288252374
+url: http://localhost:8080/preparacao/ingrediente/21/preparacao/30
+name: PreparacaoIngrediente
 description: ""
-method: GET
+method: POST
 body:
   mimeType: ""
   text: ""
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1659230009712
+metaSortKey: -1659135554463
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

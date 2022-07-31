@@ -1,29 +1,22 @@
-_id: req_95ce0f65dd004058bfcb30ca816c7542
+_id: req_b422a1dae3864f8b85436ad59fe99696
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659287935995
-created: 1659135553998
-url: http://localhost:8080/responsavel
-name: Responsavel
+modified: 1659290892100
+created: 1659230276574
+url: http://localhost:8080/listadecompra/item/33/listadecompra/24
+name: ListaDeCompraItem
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: |-
-    {
-    	"nome":"Vitor",
-    	"sobrenome": "Silva",
-    	"email": "silva@email.com",
-    	"senha": "12345",
-    	"nascimento": "2020-09-21"
-    }
+  text: ""
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_9a143c3ff67146f58e1e4a31317a88e9
+    id: pair_0d698d5d10314fa68afc1122c809172c
 authentication: {}
-metaSortKey: -1659135553998
+metaSortKey: -1659230009687
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

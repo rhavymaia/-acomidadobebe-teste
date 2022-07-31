@@ -1,7 +1,7 @@
 _id: req_5d8bab6817664ba1a180058eb6246497
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135553837
+modified: 1659287878161
 created: 1659135553837
 url: http://localhost:8080/endereco
 name: Endereco
@@ -19,13 +19,14 @@ body:
     	"cidade": "guarabira",
     	"estado": "pb",
     	"usuario": {
-    		"id": 3
+    		"id": 12
     	}
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_304233df3d964dbd8b9d1c6dd64b99d4
 authentication: {}
 metaSortKey: -1659135553837
 isPrivate: false

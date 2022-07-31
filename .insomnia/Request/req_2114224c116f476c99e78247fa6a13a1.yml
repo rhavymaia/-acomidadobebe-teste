@@ -1,7 +1,7 @@
 _id: req_2114224c116f476c99e78247fa6a13a1
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135554301
+modified: 1659290831891
 created: 1659135554301
 url: http://localhost:8080/ingrediente
 name: Ingrediente
@@ -11,17 +11,13 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"nome": "Feijão",
-    	"grupos":[
-    		{
-    			"id": 5
-    		}
-    	]
+    	"nome": "Feijão"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_cce1b77fb2db4a149c8582ca49e534fb
 authentication: {}
 metaSortKey: -1659135554301
 isPrivate: false

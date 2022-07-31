@@ -1,7 +1,7 @@
 _id: req_d9caa28a12f0406a9fa22e26fbbeff79
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135554197
+modified: 1659287990898
 created: 1659135554197
 url: http://localhost:8080/grupo
 name: Grupo
@@ -11,12 +11,13 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"nome": "Fibra"
+    	"nome": "Fruta"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_3e02d6d78b5d45fd8a3edb0a792ac2ba
 authentication: {}
 metaSortKey: -1659135554197
 isPrivate: false

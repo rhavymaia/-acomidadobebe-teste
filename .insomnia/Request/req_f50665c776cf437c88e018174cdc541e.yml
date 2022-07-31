@@ -1,19 +1,17 @@
-_id: req_5fca0578742a4c2295925881a0a4c7a2
+_id: req_f50665c776cf437c88e018174cdc541e
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659230244298
-created: 1659135554994
-url: http://localhost:8080/listadecompra
-name: ListaDeCompra
+modified: 1659230033345
+created: 1659230009612
+url: http://localhost:8080/item
+name: Item
 description: ""
 method: GET
-body:
-  mimeType: ""
-  text: ""
+body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1659230009712
+metaSortKey: -1659230009612
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

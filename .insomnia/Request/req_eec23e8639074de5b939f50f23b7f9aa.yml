@@ -1,7 +1,7 @@
 _id: req_eec23e8639074de5b939f50f23b7f9aa
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135553698
+modified: 1659287769902
 created: 1659135553698
 url: http://localhost:8080/usuario
 name: Usuario
@@ -12,8 +12,8 @@ body:
   text: |-
     {
     	"nome":"joao",
-    	"sobrenome": "banana",
-    	"email": "ana@email.com",
+    	"sobrenome": "Sousa",
+    	"email": "joao@email.com",
     	"senha": "12345",
     	"nascimento": "2020-09-21"
     }
@@ -21,6 +21,7 @@ parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_c502a43c55dc4f23a31e9f6ebb306340
 authentication: {}
 metaSortKey: -1659135553698
 isPrivate: false

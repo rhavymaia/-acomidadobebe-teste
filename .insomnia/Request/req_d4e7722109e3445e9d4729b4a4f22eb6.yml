@@ -1,7 +1,7 @@
 _id: req_d4e7722109e3445e9d4729b4a4f22eb6
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135554437
+modified: 1659290525324
 created: 1659135554437
 url: http://localhost:8080/preparacao
 name: Preparacao
@@ -14,32 +14,15 @@ body:
     	"nome": "Peparacao arroz e feijão",
     	"link_receita": "receita.com/arrozefeijao",
     	"ingredientes": [
-    		{
-    		"id": 6,
-    		"nome": "Arroz",
-    		"grupos": [
-    			{
-    				"id": 5,
-    				"nome": "Fibra"
-    			}
-    		]
-    	},
-    	{
-    		"id": 7,
-    		"nome": "Feijão",
-    		"grupos": [
-    			{
-    				"id": 5,
-    				"nome": "Fibra"
-    			}
-    		]
-    	}
+    		{"id": 8},
+    		{"id": 7}
     	]
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_2b20fb725c694d8da8ec6d3f6cded821
 authentication: {}
 metaSortKey: -1659135554437
 isPrivate: false

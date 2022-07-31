@@ -1,7 +1,7 @@
 _id: req_85db8a3bf643483a81a4309183028c23
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135554720
+modified: 1659290758798
 created: 1659135554720
 url: http://localhost:8080/refeicao
 name: Refeicao
@@ -13,13 +13,14 @@ body:
     {
     	"categoria": "Almoço",
     	"cardapio": {
-    		"id": 9
+    		"id": 31
     	}
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_783bff8487394967bacdcc118d3d2c59
 authentication: {}
 metaSortKey: -1659135554720
 isPrivate: false
