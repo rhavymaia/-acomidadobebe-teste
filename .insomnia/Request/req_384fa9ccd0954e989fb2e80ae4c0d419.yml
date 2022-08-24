@@ -1,23 +1,23 @@
 _id: req_384fa9ccd0954e989fb2e80ae4c0d419
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659287962255
+modified: 1661349807649
 created: 1659135554101
 url: http://localhost:8080/membro
-name: Membro
+name: Membro post
 description: ""
 method: POST
 body:
   mimeType: application/json
   text: |-
     {
-    	"nome": "Paulo",
-    	"sobrenome": "Silva",
-    	"parentesco": "Filha",
-    	"nascimento": "2022-08-09",
+    	"nome": "Jonatas",
+    	"sobrenome": "Pinheiro",
+    	"parentesco": {
+    		"id": 3 },
+    	"nascimento": "2018-10-08",
     	"responsavel": {
-    		"id": 13
-    	}
+    		"id": 4 }
     }
 parameters: []
 headers:
@@ -25,7 +25,7 @@ headers:
     value: application/json
     id: pair_1b219f76688b4ee782a0e0d9bc219eaf
 authentication: {}
-metaSortKey: -1659135554101
+metaSortKey: 2900
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

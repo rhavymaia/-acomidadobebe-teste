@@ -1,9 +1,9 @@
 _id: req_09c60741fbdc4fc990faf8deea12addd
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659288447263
+modified: 1661351558839
 created: 1659288252374
-url: http://localhost:8080/preparacao/ingrediente/21/preparacao/30
+url: http://localhost:8080/preparacao/ingredienteTeste/2/preparacao/2
 name: PreparacaoIngrediente
 description: ""
 method: POST
@@ -13,7 +13,7 @@ body:
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1659135554463
+metaSortKey: 4100
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

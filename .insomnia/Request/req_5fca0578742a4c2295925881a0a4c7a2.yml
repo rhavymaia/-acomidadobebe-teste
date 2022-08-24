@@ -1,7 +1,7 @@
 _id: req_5fca0578742a4c2295925881a0a4c7a2
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659230244298
+modified: 1661344659342
 created: 1659135554994
 url: http://localhost:8080/listadecompra
 name: ListaDeCompra
@@ -12,8 +12,13 @@ body:
   text: ""
 parameters: []
 headers: []
-authentication: {}
-metaSortKey: -1659230009712
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: teste
+  password: "12345"
+metaSortKey: 2000
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

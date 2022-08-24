@@ -1,10 +1,10 @@
 _id: req_13792f788c594486a2b7638007de3fd1
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659135553844
+modified: 1661345306934
 created: 1659135553844
 url: http://localhost:8080/endereco
-name: Endereco
+name: Endereco getAll
 description: ""
 method: GET
 body:
@@ -13,7 +13,7 @@ body:
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1659135553844
+metaSortKey: 600
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

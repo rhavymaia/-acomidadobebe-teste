@@ -1,30 +1,30 @@
 _id: req_a3d9dc5e5aa247298777850e5d3d36b6
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1659287856440
+modified: 1661349555947
 created: 1659135553855
 url: http://localhost:8080/nutricionista
-name: Nutricionista
+name: Nutricionista post
 description: ""
 method: POST
 body:
   mimeType: application/json
   text: |-
     {
-    	"crn": "123-pb",
-    	"nome":"Paulo",
-    	"sobrenome": "banana",
-    	"email": "paulo@email.com",
-    	"senha": "12345",
-    	"nascimento": "2020-09-21"
-    }
+    		"nome": "Getulio",
+    		"sobrenome": "Caio",
+    		"email": "GC@email.com",
+    		"senha": "1234588",
+    		"nascimento": 367200000000,
+    		"crn": "123878-pe"
+    	}
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
     id: pair_7d548c2499644f2cbb2b1c137b2e0c6f
 authentication: {}
-metaSortKey: -1659135553855
+metaSortKey: 3300
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
