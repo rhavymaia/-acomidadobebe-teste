@@ -1,7 +1,7 @@
 _id: req_85db8a3bf643483a81a4309183028c23
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661351925769
+modified: 1661542480494
 created: 1659135554720
 url: http://localhost:8080/refeicao
 name: Refeicao
@@ -12,12 +12,16 @@ body:
   text: |-
     {
     	"categoria": {
-    		"id": 3
+    		"id": 1
     	},
     	"cardapio": {
     		"id": 1
-    	}
-    	
+    	},
+    	"preparacao": [
+    		{
+    			"id": 1
+    		}
+    		]
     }
 parameters: []
 headers:

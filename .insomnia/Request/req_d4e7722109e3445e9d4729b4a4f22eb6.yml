@@ -1,7 +1,7 @@
 _id: req_d4e7722109e3445e9d4729b4a4f22eb6
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661351315583
+modified: 1661532417027
 created: 1659135554437
 url: http://localhost:8080/preparacao
 name: Preparacao
@@ -12,11 +12,8 @@ body:
   text: |-
     {
     	"nome": "Peparacao sopa",
-    	"link_receita": "receita.com/sopa",
-    	"ingredientesTeste": [
-    		{"id": 1},
-    		{"id": 2}
-    	]
+    	"link_receita": "receita.com/sopa"
+    		
     }
 parameters: []
 headers:

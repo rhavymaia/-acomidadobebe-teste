@@ -1,10 +1,10 @@
 _id: req_5d8bab6817664ba1a180058eb6246497
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661349834839
+modified: 1661542314711
 created: 1659135553837
 url: http://localhost:8080/endereco
-name: Endereco post
+name: Endereco
 description: ""
 method: POST
 body:

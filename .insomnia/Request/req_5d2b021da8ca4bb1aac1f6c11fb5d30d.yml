@@ -1,10 +1,10 @@
 _id: req_5d2b021da8ca4bb1aac1f6c11fb5d30d
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661344659342
+modified: 1661542361142
 created: 1659135553862
 url: http://localhost:8080/nutricionista
-name: Nutricionista getAll
+name: Nutricionista
 description: ""
 method: GET
 body:

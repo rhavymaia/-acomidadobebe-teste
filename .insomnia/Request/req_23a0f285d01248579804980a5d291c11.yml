@@ -1,9 +1,9 @@
 _id: req_23a0f285d01248579804980a5d291c11
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661344659342
+modified: 1661541273657
 created: 1659135554368
-url: http://localhost:8080/
+url: http://localhost:8080/ingrediente
 name: Ingrediente
 description: ""
 method: GET

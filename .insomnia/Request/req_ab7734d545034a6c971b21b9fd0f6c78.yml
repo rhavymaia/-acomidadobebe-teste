@@ -1,9 +1,9 @@
 _id: req_ab7734d545034a6c971b21b9fd0f6c78
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661344659342
+modified: 1661514301019
 created: 1659135554788
-url: http://localhost:8080/refeicao/preparacao/30/refeicao/32
+url: http://localhost:8080/refeicao/preparacao/1/refeicao/1
 name: RefeicaoPreparacao
 description: ""
 method: POST

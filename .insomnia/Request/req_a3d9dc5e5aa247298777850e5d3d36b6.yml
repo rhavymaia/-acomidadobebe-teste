@@ -1,10 +1,10 @@
 _id: req_a3d9dc5e5aa247298777850e5d3d36b6
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661349555947
+modified: 1661542371258
 created: 1659135553855
 url: http://localhost:8080/nutricionista
-name: Nutricionista post
+name: Nutricionista
 description: ""
 method: POST
 body:

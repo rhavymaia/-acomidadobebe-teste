@@ -1,10 +1,10 @@
 _id: req_3719b0dc11b3410096da46429e77c218
 type: Request
 parentId: wrk_f15068bb7fc548de9bb9e4a767a38237
-modified: 1661344659342
+modified: 1661542346366
 created: 1659135554139
 url: http://localhost:8080/membro
-name: Membro getAll
+name: Membro
 description: ""
 method: GET
 body:
